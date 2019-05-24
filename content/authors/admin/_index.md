@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, computational neuroscience, and evolutionary algorithms.
 
 interests:
 - Artificial Intelligence
@@ -78,3 +78,5 @@ user_groups:
 #I am a first year PhD student in Computer Science at Cornell University. My research interests are in artificial intelligence, constraint reasoning, and computational sustainability, and I am currently being advised by Prof. Carla Gomes and Prof. Bart Selman. I graduated from Illinois Wesleyan University in December 2017 with a B.S. in Computer Science, where I was fortunate to be advised by Prof. Mark Liffiton.
 ---
 I am currently a student at Cornell University majoring in computer science. My interests are in artificial intelligence, computational neuroscience, evolutionary algorithms, and more. I will be starting my Masters in Engineering in October 2019.
+
+I am also the corporate chair of ACSU, a top scholar achiever from Botswana, a pianist, and an avid gamer.
