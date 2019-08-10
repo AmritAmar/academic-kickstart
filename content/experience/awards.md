@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   
   I came 1st in the IT Innovation/Working model category in 2013 for making an animatronic robotic hand (a robotic hand that moves based on the human hand controlling it) that could help people working in dangerous situations such as in mines. I developed the project further in 2014. 
   
-  [Here is a video demonstration of it!](https://www.youtube.com/watch?v=TA5GpAQBzUY)
+  [A Video Demonstration can be found here](https://www.youtube.com/watch?v=TA5GpAQBzUY)
   """
   
 [[item]]

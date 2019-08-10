@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Software Developement"
+  name = "Software Development"
   description = " "
 
 [[feature]]
@@ -65,7 +65,7 @@ subtitle = ""
 [[feature]]
   icon = "cubes"
   icon_pack = "fas"
-  name = "Unity"
+  name = "Unity 3D"
   description = " "
 
 [[feature]]

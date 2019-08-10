@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, computational neuroscience, and evolutionary algorithms.
+bio: My research interests include artificial intelligence, Augmented Reality, computational neuroscience, and evolutionary algorithms.
 
 interests:
 - Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
 - Computational Neuroscience
 - Evolutionary Programming
+- Virtual/Augmented Reality
 
 education:
   courses:
