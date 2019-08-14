@@ -41,7 +41,15 @@ I then, instead of simply drawing a circle from a set of points, implemented the
 
 {{< p5js wCIhlz7Yv 704 404 >}}
 
-The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out! In addition, use A/D to reduce/increase the number of epicycles used, and use W/S to increase/reduce the speed and see how it affects the fourier transform!
+The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out! 
+
+In addition:
+
+- use A/D to reduce/increase the number of epicycles used
+
+- use W/S to increase/reduce the speed 
+
+... and see how it affects the fourier transform!
 
 {{< p5js YjvB9MTas 704 404 >}}
 
