@@ -72,3 +72,5 @@ There are 3 main scripts:
 The program works as follows:
 
 The input and hidden layer nodes have both a weight and a bias, that is randomly generated for the population of cars (default 10). They are then simulated as generation 1 on the race track. After all the cars crash or 60 seconds, the algorithm chooses the best 2 cars (based on displacement from starting point) and then creates the next generation of cars by combining the best 2 cars genes (randomly selecting between the 2 or a combination thereof). There is an option that allows us to keep the best 2 cars in the next generation or to generate all new cars in the population from the parents (i.e. the parents die). The next generation is then simulated and so on.
+
+
