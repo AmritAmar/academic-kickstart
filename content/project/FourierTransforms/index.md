@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: Github
   url: https://github.com/AmritAmar/FourierTransformsJS
-url_code: "https://editor.p5js.org/AmritAmar/sketches"
+url_code: "https://editor.p5js.org/AmritAmar/sketches/YjvB9MTas"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -45,13 +45,13 @@ I then, instead of simply drawing a circle from a set of points, implemented the
 
 {{< p5js wCIhlz7Yv 704 404 >}}
 
-The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out! 
+The final part of this project involved combining the 2 parts, X and Y components, into 1 Complex Number component. This allows you to use only one overall circle to draw both parts of the transform as the complex number component captures both X and Y of the drawing. Try the final version out!
 
 In addition:
 
 - use A/D to reduce/increase the number of epicycles used
 
-- use W/S to increase/reduce the speed 
+- use W/S to increase/reduce the speed
 
 ... and see how it affects the fourier transform!
 

@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Github
   url: https://github.com/AmritAmar/T-Cubed
-url_code: "https://editor.p5js.org/AmritAmar/sketches"
+url_code: "https://editor.p5js.org/AmritAmar/sketches/x2dtFTAsH"
 url_pdf: ""
 url_slides: ""
 url_video: ""
