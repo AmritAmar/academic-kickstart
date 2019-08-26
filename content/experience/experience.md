@@ -23,9 +23,13 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/"
   location = "Seattle, WA"
   date_start = "2019-05-05"
-  date_end = ""
+  date_end = "2019-08-08"
   description = """
-  Currently interning at Facebook and working on the video infra team. 
+  Worked on the video infrastructure team. 
+
+  * Worked on live streaming infrastructure and the internal media streaming SDK 
+  * Worked on implementing MPEG-DASH ingested live for FBLite Livestreaming using a combination of C++, Java, and Python
+  * Created a end-to-end working prototype that allows the user to go LIVE from FBLite and use the DASH ingestion stack
   """
 
 [[experience]]
