@@ -21,6 +21,14 @@ subtitle = "Cornell University 2016 - 2020"
 
 +++
 
+#### Currently Taking
+
+- CS 5780: Machine Learning for Intelligent Systems
+- CS 6670: Graduate Introduction to Computer Vision
+- ENGRI 1620: Visual Imaging in the Digital World
+- ENGRD 2640: Interfacing the Analog World with the Digital Domain
+- HADM 4300: Introduction to Wines
+
 #### Core Computer Science Classes
 
 - CS 2110: Object-Oriented Design and Data Structures - Honors 
@@ -46,7 +54,7 @@ subtitle = "Cornell University 2016 - 2020"
 
 - BME 3300: Computational Neuroscience 
 - BTRY 4381: Biomedical Data Science 
-- CS 4840: Computational Genetics and Genomics
+- BTRY 4840: Computational Genetics and Genomics
 
 #### Others
 
@@ -56,6 +64,6 @@ subtitle = "Cornell University 2016 - 2020"
 - MATH 1920: Multivariate Calculus 
 - MATH 2210: Linear Algebra 
 - MATH 4710: Probability and Statistics 
-- MUSIC 1105: Music Theory 
+- MUSIC 1105: Western Classical Music Theory 
 - PHIL 2300/2621: Philosophy (Puzzles & Paradoxes/Minds and Machines)
 - PHY 1116/2213: Physics (Mechanics/E&M)
