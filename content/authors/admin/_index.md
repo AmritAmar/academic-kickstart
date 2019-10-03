@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, Augmented Reality, computational neuroscience, and evolutionary algorithms.
+bio: My research interests include artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms.
 
 interests:
 - Artificial Intelligence
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: M.Eng in Computer Science
-    institution: Cornell University
-    year: 2020
+  #- course: M.Eng in Computer Science
+  #  institution: Cornell University
+  #  year: 2020
   - course: BSc in Computer Science
     institution: Cornell University
-    year: 2019
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -75,7 +75,9 @@ user_groups:
 #Hi! I'm a senior at Cornell University majoring in computer science. My interests encompass topics from cloud computing to algorithms to functional programming and more. Outside of programming, I also enjoy learning Japanese.
 
 #I am a first year PhD student in Computer Science at Cornell University. My research interests are in artificial intelligence, constraint reasoning, and computational sustainability, and I am currently being advised by Prof. Carla Gomes and Prof. Bart Selman. I graduated from Illinois Wesleyan University in December 2017 with a B.S. in Computer Science, where I was fortunate to be advised by Prof. Mark Liffiton.
+
+#I will be starting my Masters in Engineering in October 2019.
 ---
-I am currently a student at Cornell University majoring in computer science. My interests are in artificial intelligence, computational neuroscience, evolutionary algorithms, and more. I will be starting my Masters in Engineering in October 2019.
+I am currently a student at Cornell University majoring in computer science. My interests are in artificial intelligence, computational neuroscience, evolutionary algorithms, and more. 
 
 I am also the corporate chair of ACSU, a top scholar achiever from Botswana, a pianist, and an avid gamer.
