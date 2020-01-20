@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ bio: My research interests include artificial intelligence, virtual/augmented re
 
 interests:
 - Artificial Intelligence
-- Computational Neuroscience
-- Evolutionary Programming
 - Virtual/Augmented Reality
+- Computational Neuroscience
+- Evolutionary Algorithms
 
 education:
   courses:
-  #- course: M.Eng in Computer Science
-  #  institution: Cornell University
-  #  year: 2020
-  - course: BSc in Computer Science
+  - course: M.Eng in Computer Science
+    institution: Cornell University
+    year: 2020
+  - course: B.Sc in Computer Science
     institution: Cornell University
     year: 2020
 
@@ -70,14 +70,8 @@ user_groups:
 
 #Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. [link to Google!](http://google.com)
 
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
-#Hi! I'm a senior at Cornell University majoring in computer science. My interests encompass topics from cloud computing to algorithms to functional programming and more. Outside of programming, I also enjoy learning Japanese.
-
-#I am a first year PhD student in Computer Science at Cornell University. My research interests are in artificial intelligence, constraint reasoning, and computational sustainability, and I am currently being advised by Prof. Carla Gomes and Prof. Bart Selman. I graduated from Illinois Wesleyan University in December 2017 with a B.S. in Computer Science, where I was fortunate to be advised by Prof. Mark Liffiton.
-
-#I will be starting my Masters in Engineering in October 2019.
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently a student at Cornell University majoring in computer science. My interests are in artificial intelligence, computational neuroscience, evolutionary algorithms, and more. 
+I am currently a masters student at Cornell University doing research in computer science. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
 
-I am also the corporate chair of ACSU, a top scholar achiever from Botswana, a pianist, and an avid gamer.
+I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/watch?v=Ce8p0VcTbuA), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:aa792@cornell.edu) me about anything!

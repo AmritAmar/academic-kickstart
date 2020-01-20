@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Courses"
 subtitle = "Cornell University 2016 - 2020"
@@ -23,13 +23,18 @@ subtitle = "Cornell University 2016 - 2020"
 
 #### Currently Taking
 
+- CS 4300: Language and Information
+- CS 4744: Computational Linguistics
+- CS 6700: Advanced Artificial Intelligence
+- CS 6840: Algorithmic Game Theory
+- ECE 4271: Evolutionary Processes. Evolutionary Algorithms, Evolutionary Games
+
+#### Masters Computer Science Classes
+
 - CS 5780: Machine Learning for Intelligent Systems
 - CS 6670: Graduate Introduction to Computer Vision
-- ENGRI 1620: Visual Imaging in the Digital World
-- ENGRD 2640: Interfacing the Analog World with the Digital Domain
-- HADM 4300: Introduction to Wines
 
-#### Core Computer Science Classes
+#### Core Undergraduate Computer Science Classes
 
 - CS 2110: Object-Oriented Design and Data Structures - Honors 
 - CS 2800: Discrete Structures 
@@ -38,7 +43,7 @@ subtitle = "Cornell University 2016 - 2020"
 - CS 4410: Operating Systems 
 - CS 4820: Analysis of Algorithms 
 
-#### Computer Science Electives
+#### Undergraduate Computer Science Electives
 
 - CS 2024: C++  
 - CS 2043: UNIX Tools and Scripting 
@@ -61,6 +66,9 @@ subtitle = "Cornell University 2016 - 2020"
 - BIOEE 1780: Evolution and Diversity 
 - CHEM 2090: Chemistry
 - ECON 1110/1120: Micro/Macro Economics
+- ENGRI 1620: Visual Imaging in the Digital World
+- ENGRD 2640: Interfacing the Analog World with the Digital Domain
+- HADM 4300: Introduction to Wines
 - MATH 1920: Multivariate Calculus 
 - MATH 2210: Linear Algebra 
 - MATH 4710: Probability and Statistics 
