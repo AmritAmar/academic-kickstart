@@ -35,7 +35,7 @@ What is a fourier transform? It's simply a way of breaking apart a wave into ind
 
 Following Daniel Shiffman's tutorial, I first started with visualizing the [fourier series](https://en.wikipedia.org/wiki/Fourier_series). I visualized the square wave and the sawtooth wave. You can adjust the sliders to increase/reduce the number of epicycles, and use the dropdown menu to change the wave in question.
 
-{{< p5js SnFt_PCfq 604 425 >}}
+{{< p5js SnFt_PCfq 604 430 >}}
 
 Signals, or waves, can be interpreted as a set of points. One for the X axis, and one for the Y axis. If we apply the fourier transform to both of them, we can 2 transforms that give us the frequence, phase, and amplitude of each component. This is what I did in the next iteration!
 

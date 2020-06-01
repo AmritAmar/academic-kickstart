@@ -21,18 +21,16 @@ subtitle = "Cornell University 2016 - 2020"
 
 +++
 
-#### Currently Taking
+#### Masters Computer Science Classes
 
 - CS 4300: Language and Information
 - CS 4744: Computational Linguistics
-- CS 6700: Advanced Artificial Intelligence
-- CS 6840: Algorithmic Game Theory
-- ECE 4271: Evolutionary Processes. Evolutionary Algorithms, Evolutionary Games
-
-#### Masters Computer Science Classes
-
 - CS 5780: Machine Learning for Intelligent Systems
 - CS 6670: Graduate Introduction to Computer Vision
+- CS 6700: Advanced Artificial Intelligence
+- CS 6840: Algorithmic Game Theory
+- CS 5999: Masters Research Project with Professor Steve Marschner and Professor Bruce Walter - *Exploring photo-realisitic 
+- ECE 4271: Evolutionary Processes. Evolutionary Algorithms, Evolutionary Gamesmaterial rendering in VR*
 
 #### Core Undergraduate Computer Science Classes
 

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student
+role: "Incoming SWE"
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
+- name: "Facebook"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,6 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently a masters student at Cornell University doing research in computer science. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
+I am currently an incoming software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
 
 I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/watch?v=Ce8p0VcTbuA), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:aa792@cornell.edu) me about anything!

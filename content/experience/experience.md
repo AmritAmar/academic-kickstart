@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Student Researcher"
+  company = "Cornell Graphics and Vision Group"
+  company_url = "https://rgb.cs.cornell.edu/"
+  location = "Ithaca, NY"
+  date_start = "2020-10-05"
+  date_end = "2020-05-31"
+  description = """
+  I worked with Professor Steve Marschner and Professor Bruce Walter on *Exploring photo-realisitic material rendering in VR*. This was done as my Masters of Engineering final project. 
+  
+  * I used Unity to implement shading models that were more realistic than the standard shading models present in graphics applications. 
+  * The goal is to test these shading models in a real-time interactive VR environment and compare the look of various materials compared to real-life. 
+  """
+
+
+[[experience]]
   title = "Software Engineering Intern"
   company = "Facebook Inc."
   company_url = "https://www.facebook.com/"

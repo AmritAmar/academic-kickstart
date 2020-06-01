@@ -1,5 +1,5 @@
 ---
-title: A Visual BrainFuck Interpreter
+title: A Visual BF Interpreter
 summary: An afternoon project to create an interpreter to understand an esoteric language.
 tags:
 - Personal
