@@ -29,8 +29,8 @@ subtitle = "Cornell University 2016 - 2020"
 - CS 6670: Graduate Introduction to Computer Vision
 - CS 6700: Advanced Artificial Intelligence
 - CS 6840: Algorithmic Game Theory
-- CS 5999: Masters Research Project with Professor Steve Marschner and Professor Bruce Walter - *Exploring photo-realisitic 
-- ECE 4271: Evolutionary Processes. Evolutionary Algorithms, Evolutionary Gamesmaterial rendering in VR*
+- ECE 4271: Evolutionary Processes. Evolutionary Algorithms, Evolutionary Games
+- CS 5999: Masters Research Project with Professor Steve Marschner and Professor Bruce Walter - *Exploring photo-realisitic material rendering in VR* 
 
 #### Core Undergraduate Computer Science Classes
 

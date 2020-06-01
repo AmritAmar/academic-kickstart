@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Incoming SWE"
+role: "Incoming Software Engineer"
 
 # Organizations/Affiliations
 organizations:
