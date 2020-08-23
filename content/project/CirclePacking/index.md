@@ -13,6 +13,10 @@ image:
   focal_point: Left
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Github
+  url: https://github.com/AmritAmar/CirclePackingJS/
 url_code: "https://editor.p5js.org/AmritAmar/sketches/oL0gKBOyS"
 url_pdf: ""
 url_slides: ""

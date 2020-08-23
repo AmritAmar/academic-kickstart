@@ -1,6 +1,6 @@
 ---
 title: Games2Anime
-summary: A recommendation system for CS 4300 (Language and Information).
+summary: An anime recommendation system for CS 4300 (Language and Information).
 tags:
 - Cornell
 - AI
@@ -40,6 +40,6 @@ Games2Anime gets a list of all Anime with a MAL rating of 7.0 or above. We then 
 
 We then get a list of all Steam Games and their descriptions. Based on the game input, we go through each word in the game's description and get the top anime to that word and build up a ranking based on how often an anime shows up across the entire description. After normalizing and sorting the scores, we return the top 5 anime recommendations based on the game.
 
-Because we are heavily reliant on keyword matching, some keywords get over weighted and thus we have to manually decrease the weight of certain keywords. This is ongoing so some search results are not great, yet.
+Because we are heavily reliant on keyword matching, some keywords get over weighted and thus we have to manually decrease the weight of certain keywords. Sometimes this affects 'obvious' results like getting basketball anime for a game about basketball. This is ongoing so some search results are not great, yet. In the future, it would be nice to have search result feedback, either using Rocchio or another method. Another improvement could be adding a video API for when we don't find a trailer for an anime. 
 
 This was a fun final project for CS 4300! I learnt a lot about information retrieval methods and systems along the way and found my next show. I hope it finds your next show as well!

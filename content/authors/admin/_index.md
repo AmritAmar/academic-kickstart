@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: "Incoming Software Engineer"
+role: "Software Engineer"
 
 # Organizations/Affiliations
 organizations:
-- name: "Facebook"
+- name: "Facebook Inc."
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aa792@cornell.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:a.amritamar@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amritamar/
@@ -72,6 +72,6 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently an incoming software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
+I am currently a software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
 
-I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/watch?v=Ce8p0VcTbuA), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:aa792@cornell.edu) me about anything!
+I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:a.amritamar@gmail.com) me about anything!
