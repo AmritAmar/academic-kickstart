@@ -35,10 +35,10 @@ date_format = "Jan 2006"
   date_start = "2019-10-05"
   date_end = "2020-05-31"
   description = """
-  I worked with Professor Steve Marschner and Professor Bruce Walter on *Exploring photo-realisitic material rendering in VR*. This was done as my Masters of Engineering final project. 
+  I worked with Professor Steve Marschner and Professor Bruce Walter on *Exploring photo-realistic material rendering in VR*. This was done as my Master of Engineering final project. 
   
-  * I used Unity to implement the [ellipsoid shading model](https://www.cs.cornell.edu/Projects/metalappearance/) which is more realistic than the standard shading models present in graphics applications, particularly with anisotropic surfaces. 
-  * The goal is to test this shading model in a real-time interactive VR environment and compare the look of various materials compared to real-life. 
+  * I used Unity to implement the [ellipsoid shading model](https://www.cs.cornell.edu/Projects/metalappearance/) which is a more realistic model than the standard shading models present in graphics applications, particularly with anisotropic surfaces. 
+  * The goal is to test this shading model in a real-time interactive VR environment and compare the look of various materials to their real-life counterparts. 
   """
 
 

@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms.
+bio: My research interests include virtual/augmented reality, artificial intelligence, computational neuroscience, and evolutionary algorithms.
 
 interests:
-- Artificial Intelligence
 - Virtual/Augmented Reality
+- Artificial Intelligence
 - Computational Neuroscience
 - Evolutionary Algorithms
 
@@ -51,7 +51,7 @@ social:
   link: https://github.com/AmritAmar
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv2.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -72,6 +72,6 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently a software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in artificial intelligence, virtual/augmented reality, computational neuroscience, and evolutionary algorithms. 
+I am currently a software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, and evolutionary algorithms. 
 
 I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:a.amritamar@gmail.com) me about anything!
