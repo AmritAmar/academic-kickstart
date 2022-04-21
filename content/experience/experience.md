@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Software Engineer"
-  company = "Facebook Inc."
-  company_url = "https://www.facebook.com/careers/"
+  company = "Meta Platforms Inc."
+  company_url = "https://about.facebook.com/realitylabs/"
   location = "Seattle, WA"
   date_start = "2020-08-17"
   description = """
-  I just started! Will update this as I grow within the company. 
+  I am a software engineer at Meta within Reality Labs Research. I work in a team called *Surreal* where I am building the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI services](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) and [devices](https://about.facebook.com/realitylabs/projectaria/).
   """
 
 [[experience]]

@@ -14,7 +14,7 @@ role: "Software Engineer"
 
 # Organizations/Affiliations
 organizations:
-- name: "Facebook Inc."
+- name: Meta Platforms Inc.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,8 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently a software engineer at Facebook. I graduated from Cornell University in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, and evolutionary algorithms. 
+I am currently a software engineer at Meta Reality Labs Research where I am working on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/). 
 
-I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email ](mailto:a.amritamar@gmail.com) me about anything!
+I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, and evolutionary algorithms. 
+
+I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email](mailto:a.amritamar@gmail.com) me about anything!
