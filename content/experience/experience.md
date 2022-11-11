@@ -21,10 +21,14 @@ date_format = "Jan 2006"
   title = "Software Engineer"
   company = "Meta Platforms Inc."
   company_url = "https://about.facebook.com/realitylabs/"
-  location = "Seattle, WA"
+  location = "Redmond, WA"
   date_start = "2020-08-17"
   description = """
-  I am a software engineer at Meta within Reality Labs Research. I work in a team called *Surreal* where I am building the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI services](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) and [devices](https://about.facebook.com/realitylabs/projectaria/).
+  I am a software engineer at Meta within Reality Labs Research. I work in a team called *Surreal* where I am building the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI services](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) with [Project Aria](https://about.facebook.com/realitylabs/projectaria/).
+
+  * Designed and developed several key features such as telemetry, provisioning, audio, app-device communication, and multi-sensor time-domain synchronization.
+  * Created a framework for testing the accuracy of the device’s sensors and overall performance.
+  * Maintained a custom AOSP codebase and worked on native C++ and Java services.
   """
 
 [[experience]]

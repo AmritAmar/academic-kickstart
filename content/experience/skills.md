@@ -140,4 +140,10 @@ subtitle = ""
   name = "GLSL"
   description = " "
 
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Android Open Source Project OS"
+  description = " "
+
 +++

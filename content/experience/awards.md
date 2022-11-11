@@ -67,6 +67,20 @@ date_format = "Jan 2006"
 """
 
 [[item]]
+  organization = "Government of Botswana"
+  organization_url = ""
+  title = "Top Achievers Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  date_end = ""
+  description = """
+  The Government of Botswana award full scholarships to students who performed well in their high school exams (primarily IGCSE and A-Levels) to go to any tertiary program in the world. 
+  
+  As a global ambassador of Botswana, I uphold the values and teachings I grew up with.
+  """
+
+[[item]]
   organization = "Botho College"
   organization_url = ""
   title = "IT Innovation Award at the Botho College ICT Linkz Challenge"
