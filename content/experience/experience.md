@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   description = """
   I am a software engineer at Meta within Reality Labs Research. I work in a team called *Surreal* where I am building the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI services](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) with [Project Aria](https://about.facebook.com/realitylabs/projectaria/).
 
-  * Designed and developed several key features such as telemetry, provisioning, audio, app-device communication, and multi-sensor time-domain synchronization.
+  * Designed and developed several key features such as telemetry, provisioning, audio, app-device communication, device streaming, and multi-sensor time-domain synchronization.
   * Created a framework for testing the accuracy of the device’s sensors and overall performance.
   * Maintained a custom AOSP codebase and worked on native C++ and Java services.
   """

@@ -38,7 +38,7 @@ url_video: ""
 
 Viridian is an action webgame made that relies on precise mechanics to make your way through a magical forest. Use your mouse to shoot and gain momentun as you travel through 3 biomes. Beware of shooting plants, however, as the forest is connected to each other and plants will actively try to defend their fellow flora. 
 
-The game was produced by Team LVI Studios, consisting of:
+The game, featured on the frontpage of Newgrounds, was produced by Team LVI Studios, consisting of:
 
 - Amrit Amar *(Project Lead)*
 - Alan Pascual *(Architecture Lead)*
