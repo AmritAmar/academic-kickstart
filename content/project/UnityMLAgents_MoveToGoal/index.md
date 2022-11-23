@@ -31,7 +31,7 @@ url_video: ""
 #slides: example
 ---
 
-I only recently learned about [Unity's ML Agents Library](https://github.com/Unity-Technologies/ml-agents) - an open-source project to enable Unity projects to serve as environments for reinforcement learning algorithms. This is pretty cool because when I first started using Unity for AI, I had to implement the neural network itself and I used genetic algorithms to train my agents. With this project, training autonomous agents has never been easier with provided implementations of common RL algorithms along with a python interface to train!
+I only recently learned about [Unity's ML Agents Library](https://github.com/Unity-Technologies/ml-agents) - an open-source project to enable Unity projects to serve as environments for reinforcement learning algorithms. This is pretty cool because when I first started using Unity for AI, I had to implement the neural network itself and I used genetic algorithms to train my agents. With this project, training autonomous agents has never been easier with provided implementations of common RL algorithms along with a python interface to train! This project was done using [PPO](https://openai.com/blog/openai-baselines-ppo/).
 
 The first step was setting up my environment. I created a new Unity project and then created a virtual environment to get all the python dependencies, which included pytorch and mlagents. Everything worked pretty smoothly - I was able to use my RTX 3080 for training. I then imported the Unity ML Agents module through Unity, it was super simple. After that, I created a basic environment modelled after Unity's own example: Move to Goal.
 
@@ -50,7 +50,7 @@ While I thought about several ways to implement the observation, I decided to st
 
 ![](m2g_3.gif)
 
-It's pretty cool to see how they train over time. The red indicates that the agent failed (by hitting a wall) in the last iteration while green indicates the agent got to the goal. After about 2 minutes, I saw greens across the boards. However, ML isn't just about training specific tasks - it's about effectively training behaviours. My agent only knew how to get to the goal in one way. Move the goal elsewhere and it all went downhill.
+It's pretty cool to see how they train over time. The red indicates that the agent failed (by hitting a wall) in the last iteration while green indicates the agent got to the goal. After about 2 minutes, I saw greens across the boards. However, ML isn't just about training specific tasks - it's about effectively training behaviours. My agent only knew how to get to the goal in one way. Move the goal elsewhere and it all went downhill. 
 
 ![](m2g_4.gif)
 
