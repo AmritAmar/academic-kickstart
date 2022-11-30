@@ -17,11 +17,7 @@ image:
   focal_point: Center
 
 links:
-- icon: google-play
-  icon_pack: fab
-  name: Google Play
-  url: https://bit.ly/StelliformGame
-url_code: ""
+url_code: "https://drive.google.com/drive/folders/1ZVJychzz31pcLy8DWaN0McbTJnfI2_Aw?usp=sharing"
 url_pdf: ""
 url_slides: ""
 url_video: ""
