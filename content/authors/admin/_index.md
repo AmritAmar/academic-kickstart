@@ -14,7 +14,7 @@ role: "Software Engineer"
 
 # Organizations/Affiliations
 organizations:
-- name: Meta Platforms Inc.
+- name: Freelancer Looking for a full-time Role
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: M.Eng in Computer Science
+  - course: Master of Engineering, Computer Science
     institution: Cornell University
     year: 2020
-  - course: B.Sc in Computer Science
+  - course: Bachelor of Science, Computer Science
     institution: Cornell University
     year: 2019
 
@@ -52,7 +52,7 @@ social:
   link: https://github.com/AmritAmar
 - icon: cv
   icon_pack: ai
-  link: files/cv3.pdf
+  link: files/cv.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -73,8 +73,10 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am currently a software engineer at Meta Reality Labs Research where I am working on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/). 
+I am a software engineer who loves learning about solving challenging problems. I am currently freelancing and looking for a full-time position!
 
-I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, evolutionary algorithms, and game design. 
+I was a software engineer at Meta Reality Labs Research where I am worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/). 
+
+I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) with a Masters in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, evolutionary algorithms, and game design. 
 
 I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo) (look at [Ekko](https://www.instagram.com/p/CLz7YHlpcVW/)). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email](mailto:a.amritamar@gmail.com) me about anything!
