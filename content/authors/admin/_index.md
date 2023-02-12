@@ -75,7 +75,7 @@ user_groups:
 ---
 I am a software engineer who loves learning about solving challenging problems. I am currently freelancing and looking for a full-time position!
 
-I was a software engineer at Meta Reality Labs Research where I am worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/). 
+I was a software engineer at Meta Reality Labs Research where I worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/). 
 
 I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) with a Masters in 2020. My interests are in virtual/augmented reality, artificial intelligence, computational neuroscience, evolutionary algorithms, and game design. 
 
