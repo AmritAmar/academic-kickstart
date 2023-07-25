@@ -74,7 +74,7 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am a software engineer who loves learning about solving challenging problems. I am currently working at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs)!
+I am a software engineer who loves learning about and solving challenging problems. I am currently working at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs)!
 
 Previously, I was a software engineer at Meta Reality Labs Research where I worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) by developing [Project Aria](https://about.meta.com/realitylabs/projectaria/).
 
