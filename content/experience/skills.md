@@ -108,7 +108,7 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office Suite"
-  description = " "  
+  description = " " 
   
 [[feature]]
   icon = "microchip"
@@ -144,6 +144,18 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "Android Open Source Project OS"
+  description = " "
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Engineering"
+  description = " "
+
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Google Cloud Technologies"
   description = " "
 
 +++

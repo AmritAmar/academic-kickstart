@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Engineer"
+  company = "Inflexion Games"
+  company_url = "https://www.inflexion.io/"
+  location = "Edmonton, AB, Canada"
+  date_start = "2023-04-01"
+  date_end = ""
+  description = """
+  A part of the Analytics Game Services team to design and maintain data pipelines for a live-service game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs).
+
+  * Worked in Unreal Engine 5 with C++ to support batch and real-time telemetry pipelines on both clients and dedicated servers.
+  * Used Google Cloud technologies along to set up telemetry endpoints, cloud-run services, and Dataflow pipelines.
+  * Performed Analytics reporting from BigQuery tables into reports during playtests with over 10,000 participants.
+  * Collaborated with several gameplay teams to overhaul and incorporate data into their systems to improve the game design process.
+
+  """
+
+[[experience]]
   title = "Software Engineer"
   company = "Meta Platforms Inc."
   company_url = "https://about.facebook.com/realitylabs/"
@@ -46,7 +63,6 @@ date_format = "Jan 2006"
   * I used Unity to implement the [ellipsoid shading model](https://www.cs.cornell.edu/Projects/metalappearance/) which is a more realistic model than the standard shading models present in graphics applications, particularly with anisotropic surfaces. 
   * The goal is to test this shading model in a real-time interactive VR environment and compare the look of various materials to their real-life counterparts. 
   """
-
 
 [[experience]]
   title = "Software Engineering Intern"
