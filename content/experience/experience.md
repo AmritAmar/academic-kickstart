@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2023-04-01"
   date_end = ""
   description = """
-  A part of the Analytics Game Services team to design and maintain data pipelines for a live-service game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs).
+  A part of the Analytics Game Services team to lead, design, and maintain data pipelines for a live-service game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs).
 
-  * Worked in Unreal Engine 5 with C++ to support batch and real-time telemetry pipelines on both clients and dedicated servers.
-  * Used Google Cloud technologies along with DBT to set up telemetry endpoints, cloud-run services, and Dataflow pipelines.
-  * Performed Analytics reporting from BigQuery tables into reports during playtests with over 10,000 participants.
-  * Collaborated with several gameplay teams to overhaul and incorporate data into their systems to improve the game design process.
+  * Worked in Unreal Engine 5 with C++ to implement several features and support batch and real-time telemetry pipelines on both clients and dedicated servers.
+  * Used Google Cloud technologies along with DBT to set up data buckets, telemetry endpoints, cloud-run services, and Dataflow pipelines.
+  *	Performed Analytics reporting from BigQuery tables into reports during playtests and release with over 500k players.
+  *	Collaborated with several gameplay teams to overhaul and incorporate data into their systems to improve the game design process and helped steer company culture to be data focused.
 
   """
 
