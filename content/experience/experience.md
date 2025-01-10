@@ -23,13 +23,14 @@ date_format = "Jan 2006"
   company_url = "https://www.inflexion.io/"
   location = "Edmonton, AB, Canada"
   date_start = "2023-04-01"
-  date_end = ""
+  date_end = "2024-12-01"
   description = """
   A part of the Analytics Game Services team to lead, design, and maintain data pipelines for a live-service game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs).
 
   * Worked in Unreal Engine 5 with C++ to implement several features and support batch and real-time telemetry pipelines on both clients and dedicated servers.
-  * Used Google Cloud technologies along with DBT to set up data buckets, telemetry endpoints, cloud-run services, and Dataflow pipelines.
+  * Used Google Cloud technologies along with DBT to set up data buckets, telemetry endpoints, cloud-run services, and Dataflow pipelines. All infrastructure was managed using Terraform.
   *	Performed Analytics reporting from BigQuery tables into reports during playtests and release with over 500k players.
+  * Used LLMs to categorize bug reports and designed ML models to catch cheaters in Nightingale.
   *	Collaborated with several gameplay teams to overhaul and incorporate data into their systems to improve the game design process and helped steer company culture to be data focused.
 
   """
