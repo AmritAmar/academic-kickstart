@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Engineer"
+  title = "Lead Data Engineer"
   company = "Inflexion Games"
   company_url = "https://www.inflexion.io/"
   location = "Edmonton, AB, Canada"
@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   *	Performed Analytics reporting from BigQuery tables into reports during playtests and release with over 500k players.
   * Used LLMs to categorize bug reports and designed ML models to catch cheaters in Nightingale.
   *	Collaborated with several gameplay teams to overhaul and incorporate data into their systems to improve the game design process and helped steer company culture to be data focused.
+  * Mentored engineers and analysts on data engineering principles.
 
   """
 

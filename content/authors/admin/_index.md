@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data design and engineering, graphics and virtual/augmented reality, and artificial intelligence (particularly alignment, interpretability, and evolutionary algorithms).
+bio: My research interests include artificial intelligence (particularly alignment, interpretability), data design and engineering, graphics, virtual/augmented reality, and quantum computing.
 
 interests:
 - Data and Software Engineering
@@ -71,10 +71,10 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am a software engineer who loves learning about and solving challenging problems.
+I am a software engineer who enjoys challenges and problem-solving. I am excited to apply my expertise in AI, Data, and Software Engineering to have a positive impact on the world.
 
-Previously, I was a software engineer at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) where I worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) by developing [Project Aria](https://about.meta.com/realitylabs/projectaria/). I then spearheaded the data engineering department at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs).
+Previously, I was a software engineer at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) where I worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) by developing [Project Aria](https://about.meta.com/realitylabs/projectaria/). I then spearheaded the data engineering team at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs). I do part-time consulting on AI and Data projects with businesses who want to reach their potential.
 
-I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) with a Masters in 2020. My interests are in data and engineering, artificial intelligence, computer graphics and virtual/augmented reality. 
+I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) with a Bachelor's in 2019 and a Master's in 2020. I possess experience in AI, Data, Embedded Systems, Robotics, Augmented/Virtual Reality, Game Design, and Computer Graphics. 
 
-I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), an [avid gamer (and game developer)](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo) (look at [Ekko](https://www.instagram.com/p/CLz7YHlpcVW/)). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email](mailto:a.amritamar@gmail.com) me about anything!
+I am also a top scholar achiever from [Botswana](https://pixabay.com/images/search/botswana/), a [pianist](https://www.youtube.com/playlist?list=PL3Lzx8hTbaGUHeR0KagT448zOcbd1PEo5), a scuba diver, an [avid competitive gamer](https://xkcd.com/606/), and a [dog person](https://www.youtube.com/watch?v=ah6fmNEtXFI&feature=emb_logo) (look at [Ekko](https://www.instagram.com/p/CLz7YHlpcVW/)). Feel free to [directly message](https://twitter.com/_SirHack3r) or [email](mailto:a.amritamar@gmail.com) me about anything!
