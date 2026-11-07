@@ -18,6 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior AI Platform Engineer"
+  company = "FactualIQ"
+  company_url = ""
+  location = "Vancouver, BC, Canada"
+  date_start = "2025-06-01"
+  date_end = ""
+  description = """
+  Founding AI Engineer building meaningful AI tools that help people at mission-driven organizations.
+
+  * Design custom, secure enterprise AI orchestration solutions for clients across education, finance, construction, and media.
+  * Build and manage deployments of thousands of AI agents across The Decision Engine.
+  * Design global infrastructure for telemetry, monitoring, costing, billing, licensing, security, and compliance.
+  """
+
+[[experience]]
+  title = "Founder"
+  company = "Mopane Technologies"
+  company_url = "https://mopane.ai"
+  location = "Gaborone, Botswana"
+  date_start = "2025-03-01"
+  date_end = ""
+  description = """
+  My company, building public-good products and delivering AI, data, and engineering solutions from Botswana.
+
+  * Public-good products that stay free for the people they serve, starting with [Bopa](https://bopa.dev): a browser-based programming platform where learners write code in Setswana and English, with 400+ keywords for drawing, motion, interaction, and data.
+  * Data-driven apps such as [Molelo](https://molelo.mopane.ai), a near-real-time monitor of satellite heat detections and veld fire incidents across Botswana.
+  * Commercial work for organisations and public institutions: AI and data strategy, data engineering, applied AI (custom LLM solutions and MCP servers), robotics, embedded and IoT systems, product engineering, and technical due diligence.
+  """
+
+[[experience]]
   title = "Lead Data Engineer"
   company = "Inflexion Games"
   company_url = "https://www.inflexion.io/"

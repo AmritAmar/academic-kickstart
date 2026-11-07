@@ -10,19 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: "Software Engineer"
+role: "Senior AI Platform Engineer · Founder of Mopane Technologies"
 
 # Organizations/Affiliations
 organizations:
-- name: ""
+- name: FactualIQ
   url: ""
+- name: Mopane Technologies
+  url: "https://mopane.ai"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence (particularly alignment, interpretability), data design and engineering, graphics, virtual/augmented reality, and quantum computing.
 
 interests:
+- AI Platforms and Multi-agent Systems
 - Data and Software Engineering
-- Artificial Intelligence
+- Public-good Technology in Botswana
 - Computer Graphics and Virtual/Augmented Reality
 
 education:
@@ -71,9 +74,11 @@ user_groups:
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 ---
-I am a software engineer who enjoys challenges and problem-solving. I am excited to apply my expertise in AI, Data, and Software Engineering to have a positive impact on the world.
+I am a software engineer and founder who enjoys challenges and problem-solving. I build AI, data, and software systems that have a positive impact on people's lives.
 
-Previously, I was a software engineer at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) where I worked on the future of [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) by developing [Project Aria](https://about.meta.com/realitylabs/projectaria/). I then spearheaded the data engineering team at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs). I do part-time consulting on AI and Data projects with businesses who want to reach their potential.
+I am currently a Senior AI Platform Engineer at FactualIQ, where I design secure enterprise AI orchestration for mission-driven organizations in education, finance, construction, and media, running thousands of AI agents on The Decision Engine. I also founded [Mopane Technologies](https://mopane.ai) in Gaborone, Botswana, which builds free public-good products like [Bopa](https://bopa.dev) (code in Setswana and English, right in the browser) and data-driven apps like [Molelo](https://molelo.mopane.ai), a near-real-time veld fire monitor for Botswana. Mopane also takes on commercial AI, data, and engineering work.
+
+Previously, I spearheaded the data engineering team at [Inflexion Games](https://www.inflexion.io/) on a live-service survival multiplayer game called [Nightingale](https://www.youtube.com/watch?v=raSjAJcftMs), and before that I was a software engineer at [Meta Reality Labs Research](https://about.meta.com/realitylabs/) working on [Augmented Reality](https://tech.fb.com/ar-vr/2021/03/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/) and [Contextualized AI](https://about.fb.com/news/2021/10/teaching-ai-to-view-the-world-through-your-eyes/) with [Project Aria](https://about.meta.com/realitylabs/projectaria/).
 
 I graduated from [Cornell University](https://c.tenor.com/bFLnqeAN_LoAAAAC/andy-bernard-the-office.gif) with a Bachelor's in 2019 and a Master's in 2020. I possess experience in AI, Data, Embedded Systems, Robotics, Augmented/Virtual Reality, Game Design, and Computer Graphics. 
 
