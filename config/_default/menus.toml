@@ -18,6 +18,11 @@
   url = "projects/"
   weight = 30
 
+[[main]]
+  name = "Apps"
+  url = "https://apps.amritamar.com"
+  weight = 40
+
 #[[main]]
 #  name = "Posts2"
 #  url = "#posts"
